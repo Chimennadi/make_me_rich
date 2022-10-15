@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="makeMoney">Money</string>
+    <string name="info">Info</string>
+    <string name="money">$0</string>
+    <string name="app_info">Show More Information</string>
+    <string name="congrat"></string>
+</resources>
